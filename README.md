@@ -86,7 +86,7 @@ Welcome to **DevConnect**, a full-featured platform built using the MERN Stack (
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/devconnect.git
+git clone https://github.com/deoshreyas/devconnect.git
 cd devconnect
 
 # 2. Setup backend
